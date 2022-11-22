@@ -19,7 +19,7 @@ public class UserService {
 	private UserDAO userDAO;
 
 	// CREATE
-	public Response addUser(UserData user) {
+	public Response addUser(UserData user) throws Exception {
 		System.out.println("In adduser : UserService");
 		// return user;
 		// int id = userDAO.getUserId(user.getEmail());

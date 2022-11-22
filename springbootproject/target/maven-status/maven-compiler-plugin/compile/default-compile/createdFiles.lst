@@ -1,4 +1,5 @@
 com/adduser/springbootproject/utils/UserValidators.class
+com/adduser/springbootproject/dao/UserDAO$2.class
 com/adduser/springbootproject/dao/UserDAO.class
 com/adduser/springbootproject/models/UserData.class
 com/adduser/springbootproject/service/UserService.class
